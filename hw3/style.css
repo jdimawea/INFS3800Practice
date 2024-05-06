@@ -1,16 +1,14 @@
-h2 {
-	color: pink;
-}
-
 table {
 	border: solid 1px black;
+	border-collapse: collapse;
 }
 
 th {
 	border: solid 1px black;
+	width: 130px;
+	text-align: left;
 }
 
 td {
 	border: solid 1px black;
 }
-
